@@ -1,0 +1,34 @@
+C:\Users\paulo-neide\Documents\Visual Studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+C:\Users\paulo-neide\Documents\Visual Studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+C:\Users\paulo-neide\Documents\Visual Studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+C:\Users\paulo-neide\Documents\Visual Studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\DCouple.Mongo.dll
+C:\Users\paulo-neide\Documents\Visual Studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\MongoDB.Bson.dll
+C:\Users\paulo-neide\Documents\Visual Studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\paulo-neide\Documents\Visual Studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\MongoDB.Driver.dll
+C:\Users\paulo-neide\Documents\Visual Studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\paulo-neide\Documents\Visual Studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\MongoDB.Bson.pdb
+C:\Users\paulo-neide\Documents\Visual Studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\MongoDB.Bson.xml
+C:\Users\paulo-neide\Documents\Visual Studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\MongoDB.Driver.pdb
+C:\Users\paulo-neide\Documents\Visual Studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\MongoDB.Driver.xml
+C:\Users\paulo-neide\Documents\Visual Studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\paulo-neide\Documents\Visual Studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\paulo-neide\Documents\Visual Studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\obj\Debug\MongoDBTempo.csprojResolveAssemblyReference.cache
+C:\Users\paulo-neide\Documents\Visual Studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+C:\Users\paulo-neide\Documents\Visual Studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
+C:\Users\paulo-neide\Documents\Visual Studio 2015\Projects\Experimento MongoDB vs MySQL\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+C:\Users\paulo-neide\Documents\Visual Studio 2015\Projects\Experimento MongoDB vs MySQL\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+C:\Users\paulo-neide\Documents\Visual Studio 2015\Projects\Experimento MongoDB vs MySQL\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
+C:\Users\paulo-neide\Documents\Visual Studio 2015\Projects\Experimento MongoDB vs MySQL\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+C:\Users\paulo-neide\Documents\Visual Studio 2015\Projects\Experimento MongoDB vs MySQL\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+C:\Users\paulo-neide\Documents\Visual Studio 2015\Projects\Experimento MongoDB vs MySQL\ConsoleApplication2\bin\Debug\DCouple.Mongo.dll
+C:\Users\paulo-neide\Documents\Visual Studio 2015\Projects\Experimento MongoDB vs MySQL\ConsoleApplication2\bin\Debug\MongoDB.Bson.dll
+C:\Users\paulo-neide\Documents\Visual Studio 2015\Projects\Experimento MongoDB vs MySQL\ConsoleApplication2\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\paulo-neide\Documents\Visual Studio 2015\Projects\Experimento MongoDB vs MySQL\ConsoleApplication2\bin\Debug\MongoDB.Driver.dll
+C:\Users\paulo-neide\Documents\Visual Studio 2015\Projects\Experimento MongoDB vs MySQL\ConsoleApplication2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\paulo-neide\Documents\Visual Studio 2015\Projects\Experimento MongoDB vs MySQL\ConsoleApplication2\bin\Debug\MongoDB.Bson.pdb
+C:\Users\paulo-neide\Documents\Visual Studio 2015\Projects\Experimento MongoDB vs MySQL\ConsoleApplication2\bin\Debug\MongoDB.Bson.xml
+C:\Users\paulo-neide\Documents\Visual Studio 2015\Projects\Experimento MongoDB vs MySQL\ConsoleApplication2\bin\Debug\MongoDB.Driver.pdb
+C:\Users\paulo-neide\Documents\Visual Studio 2015\Projects\Experimento MongoDB vs MySQL\ConsoleApplication2\bin\Debug\MongoDB.Driver.xml
+C:\Users\paulo-neide\Documents\Visual Studio 2015\Projects\Experimento MongoDB vs MySQL\ConsoleApplication2\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\paulo-neide\Documents\Visual Studio 2015\Projects\Experimento MongoDB vs MySQL\ConsoleApplication2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\paulo-neide\Documents\Visual Studio 2015\Projects\Experimento MongoDB vs MySQL\ConsoleApplication2\obj\Debug\MongoDBTempo.csprojResolveAssemblyReference.cache
